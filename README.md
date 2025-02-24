@@ -2,7 +2,7 @@
 > [!CAUTION]
 > **Mixtape is heavily work-in-progress, and not yet ready for production use.** It likely will not be ready for a very long time; this repository is meant to track the progress of implementation and to build up support for the project.
 
-Bootleg is a modding framework for the game Cassette Beasts. It allows for mod authors to implement new features into the game with minimal headache and maximum interopability, all while _completely avoiding "coremodding"_ (i.e. directly editing the code of the base game).
+Mixtape is a modding framework for the game Cassette Beasts. It allows for mod authors to implement new features into the game with minimal headache and maximum interopability, all while _completely avoiding "coremodding"_ (i.e. directly editing the code of the base game).
 
 ## TODO
 - [ ] **Utility and core modules**
