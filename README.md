@@ -24,3 +24,4 @@ Mixtape is a modding framework for the game Cassette Beasts. It allows for mod a
   - [ ] Models (specifically `MeshLibraryFragment` and `SceneInjector`)
   - [ ] Worlds and associated maps for those worlds
   - [ ] Localization keys and values for mods
+  - [ ] _Bespoke player movement abilities?_ (maybe a later update)
